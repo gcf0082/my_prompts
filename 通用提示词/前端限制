@@ -1,0 +1,6 @@
+其他要求：
+- 每次生成的代码标注版本号和文件路径，用于后续恢复代码使用。版本号不需要写在实际代码里
+- 后端未完成，请用 JavaScript 模拟假数据
+- 技术栈：html、js、bootstrap、jstree、select2等其他开源工具库
+- 使用bootstrap container-fluid样式最大化显示页面内容
+- 可以直接运行的html单文件
